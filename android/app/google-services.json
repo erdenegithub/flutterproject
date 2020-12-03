@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314165344320",
+    "firebase_url": "https://imperial-data-203616.firebaseio.com",
+    "project_id": "imperial-data-203616",
+    "storage_bucket": "imperial-data-203616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314165344320:android:f56b91b9a4c55a589a87a5",
+        "android_client_info": {
+          "package_name": "com.anar.flutterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314165344320-2m6icjij3f8506cra6vaja2jjrs6u8b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyShYKkl5mCfWZHtthlPlyaYKCBh4NesY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314165344320-2m6icjij3f8506cra6vaja2jjrs6u8b3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314165344320-626v0br1o7m301p7jhpi2t4fiu3cqor8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
